@@ -1,0 +1,16 @@
+.hero {
+    background-position: bottom;
+    height: auto;
+    text-align: center;
+    margin-bottom: 40px;
+    padding: 0px;
+}
+
+.page-title {
+    font: #fce138;
+    display: inline-block;
+}
+
+.hero h2 {
+    display: inline-block;
+}

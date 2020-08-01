@@ -68,6 +68,7 @@ header {
   }
 
   /* Hero Style Start */
+
   .hero {
       background-image: url("../images/hero-bg.jpg");
       height: 600px;
@@ -75,7 +76,6 @@ header {
       background-position: center;
       position: relative;
   }
-  /* Hero Style End */
 
   .hero-form {
     border: 3px solid #024e76;
@@ -118,6 +118,7 @@ header {
     padding: 10px 20px;
     font-size: 16px;
   }
+
   /* HERO STYLE ENDS */
 
   /* WHAT WE DO */
@@ -131,6 +132,7 @@ header {
     font-size: 20px;
     margin: 0 auto;
   }
+  
   /* WHAT WE DO ENDS */
 
   /* WHAT YOU DO */
@@ -284,3 +286,4 @@ header {
   }
   
   /* REACH OUT STYLES END */
+  
