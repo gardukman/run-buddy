@@ -11,8 +11,11 @@
   }
   /* apply styles to <header> */
 header {
+    display: flex;
     padding: 20px 35px;
     background-color: #39a6b2;
+    justify-content: space-between;
+    flex-wrap: wrap;
   }
   header h1 {
       font-weight: bold;
@@ -25,7 +28,6 @@ header {
     color: #fce138;
   }
   header nav {
-      float: right;
       margin: 7px 0;
   }
   header nav ul li {
