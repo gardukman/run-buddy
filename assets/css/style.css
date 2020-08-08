@@ -287,6 +287,22 @@ header {
     color: #024e76;
   }
 
+/* trainers end*/
+
+/* service grid */
+
+.service-grid-container {
+  display: grid;
+}
+
+.service-grid-item {
+  width: 200px;
+  height: 50px;
+  background-color: orange;
+  border: solid;
+  color: black;
+}
+
 /* REACH OUT STYLES START */
   .contact {  
     background: #024e76;
